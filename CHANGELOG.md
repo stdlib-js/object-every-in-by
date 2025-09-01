@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-17)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`5895660`](https://github.com/stdlib-js/stdlib/commit/58956601b004086e2df8b62bff01ab8b8cee0292) - **docs:** update related packages sections [(#7681)](https://github.com/stdlib-js/stdlib/pull/7681) _(by stdlib-bot)_
 -   [`c37217b`](https://github.com/stdlib-js/stdlib/commit/c37217bceb0830c5306e4d2cb02361a697242bb6) - **docs:** fix sections _(by Athan Reines)_
 -   [`f436338`](https://github.com/stdlib-js/stdlib/commit/f4363380546535eacc2ab3d924ef1d40cafd182b) - **chore:** fix README lint errors _(by Neeraj Pathak)_
@@ -38,10 +39,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
