@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-15)
+## Unreleased (2026-01-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
 -   [`7d41665`](https://github.com/stdlib-js/stdlib/commit/7d41665991a7dc4fdef731c971bd844458f4350a) - **docs:** update related packages sections [(#9035)](https://github.com/stdlib-js/stdlib/pull/9035) _(by stdlib-bot)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`5895660`](https://github.com/stdlib-js/stdlib/commit/58956601b004086e2df8b62bff01ab8b8cee0292) - **docs:** update related packages sections [(#7681)](https://github.com/stdlib-js/stdlib/pull/7681) _(by stdlib-bot)_
